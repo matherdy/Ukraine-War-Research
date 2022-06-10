@@ -1,0 +1,8 @@
+black
+detect-secrets
+flake8==3.9.2
+isort[requirements]==5.9.3
+jupyterlab
+pip-tools
+pre-commit==2.9.2
+nose
