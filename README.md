@@ -32,7 +32,7 @@
 
 
 
-# Data Collection:
+## Data Collection:
 
 Used keywords
 ukraine
@@ -59,3 +59,23 @@ russia+war
 russia+stock
 russia+invasion
 NATO
+
+
+## Financial Analysis
+
+Possible list of models
+Moving Average (MA)
+Exponential Moving Average (EMA)
+Stochastic Oscillator
+Moving Average Convergence Divergence (MACD)
+Bollinger Bands
+Relative Strength Index (RSI)
+Fibonacci Retracement
+Ichimoku Cloud
+Standard Deviation
+Average Directional Index
+Average Directional Movement Index (ADX)
+Regression
+On Balance Volume (OBV)
+
+
