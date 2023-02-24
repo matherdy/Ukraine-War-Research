@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1628174170985996292",
+    "text": "@BonginoReport @dbongino Why are people not in jail for election interference? Oh but there was no fraud in the 2020 election! Remember if not for these people - gas would be $2 a gallon, inflation 2%, no war in Ukraine, stock market near $50K, etc\u2026.",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1627827064802889728"
+      }
+    ],
+    "possibly_sensitive": false,
+    "created_at": "2023-02-21T23:25:47.000Z",
+    "reply_settings": "everyone",
+    "in_reply_to_user_id": "1194770389634895873",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "impression_count": 11
+    },
+    "conversation_id": "1627827064802889728",
+    "lang": "en",
+    "author_id": "1603875134170882064",
+    "edit_history_tweet_ids": [
+      "1628174170985996292"
+    ]
+  },
+  {
+    "id": "1627997838264213510",
+    "text": "@Dana_Dunes @grantstern I'm old enough to remember that the minute 46 came into office we lost 14 marines, lost our oil independence, Russia invaded Ukraine, stock market went to sh!t, the dollar plummeted, trains started falling off the tracks, gas was $2.  But, sure keep lying.",
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1627645268433813507"
+      }
+    ],
+    "possibly_sensitive": false,
+    "created_at": "2023-02-21T11:45:06.000Z",
+    "reply_settings": "everyone",
+    "in_reply_to_user_id": "401615116",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 5,
+      "quote_count": 0,
+      "impression_count": 31
+    },
+    "conversation_id": "1627634133798199297",
+    "lang": "en",
+    "author_id": "1355326428380880906",
+    "edit_history_tweet_ids": [
+      "1627997838264213510"
+    ]
+  }
+]
