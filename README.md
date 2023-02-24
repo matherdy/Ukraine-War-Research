@@ -63,6 +63,8 @@ NATO
 
 ## Financial Analysis
 
+TTI Library https://trading-technical-indicators.readthedocs.io/en/latest/index.html
+
 Possible list of models
 Moving Average (MA)
 Exponential Moving Average (EMA)
