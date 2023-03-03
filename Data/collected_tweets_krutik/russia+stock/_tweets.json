@@ -1,0 +1,61 @@
+[
+  {
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1627983786691420162"
+      }
+    ],
+    "text": "@MarySchlieder @BasedMikeLee @POTUS 1) Turns out the writer isn\u2019t aware of what\u2019s happening. China yuan accounts for 1/5 of all money traded on Russia stock market and was only 1% prior to war. China is buying more coal from Russia now than it has in the past 5 yrs.",
+    "reply_settings": "everyone",
+    "in_reply_to_user_id": "472554255",
+    "conversation_id": "1627897254366547968",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "impression_count": 34
+    },
+    "possibly_sensitive": false,
+    "created_at": "2023-02-21T17:28:06.000Z",
+    "edit_history_tweet_ids": [
+      "1628084157229281309"
+    ],
+    "id": "1628084157229281309",
+    "author_id": "1384316716797374464"
+  },
+  {
+    "referenced_tweets": [
+      {
+        "type": "replied_to",
+        "id": "1627721340060069890"
+      }
+    ],
+    "text": "@StephenKotkin @Rod9331 @OregonLP @RageAgainstWar_ ruSSia stock exchange just now https://t.co/O8CNscwvEb",
+    "reply_settings": "everyone",
+    "in_reply_to_user_id": "1618433318797848576",
+    "conversation_id": "1627439421455835137",
+    "lang": "en",
+    "public_metrics": {
+      "retweet_count": 0,
+      "reply_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "impression_count": 9
+    },
+    "possibly_sensitive": false,
+    "created_at": "2023-02-20T21:28:46.000Z",
+    "attachments": {
+      "media_keys": [
+        "3_1627782331955019776"
+      ]
+    },
+    "edit_history_tweet_ids": [
+      "1627782335788621830"
+    ],
+    "id": "1627782335788621830",
+    "author_id": "1517261738223325184"
+  }
+]
