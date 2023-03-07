@@ -1,4 +1,4 @@
-# PythonProject
+# How the War in Ukraine is Affecting the Predictability of the Energy Stock Market
 
 ## Important Links 
 - Text Analysis Meeting Notes: https://docs.google.com/document/d/17tsZcXi3bGT1AHkA875-W_ctOUX1SKOqzRgez_HEE8o/edit?usp=sharing
