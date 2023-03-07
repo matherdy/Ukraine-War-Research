@@ -1,5 +1,10 @@
 # PythonProject
 
+## Important Links 
+- Text Analysis Meeting Notes: https://docs.google.com/document/d/17tsZcXi3bGT1AHkA875-W_ctOUX1SKOqzRgez_HEE8o/edit?usp=sharing
+- Data Mining Meeting Notes: https://docs.google.com/document/d/1oHuGH65mphbCqiuvs5ZZg02AVA5wi621hZin_TLWPjs/edit?usp=sharing
+- Financial Analysis Meeting Notes: https://docs.google.com/document/d/1P3FgKjTBLSxvM30N8pjrqgq6xezCF_0Dkddx9roiV9M/edit?usp=sharing
+
 
 ## GitHub tips
 Submitting a pull request
