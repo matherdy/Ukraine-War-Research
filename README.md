@@ -13,6 +13,8 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 
 ## Data Collection:
 
+Lets look into PamTag as a way to outsource our data labeling
+
 Used keywords
 ukraine
 ukraine+stock
